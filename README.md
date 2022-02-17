@@ -1,13 +1,7 @@
 
+<img src = "https://user-images.githubusercontent.com/84562738/154439851-a768ba7e-2469-48dc-ae6a-54b6f28f9b2d.jpg" width="30%" height="50%"> 
 
-<img src = "https://user-images.githubusercontent.com/84562738/154439829-babeec7a-d37d-42a1-ba4d-08c2214589e7.jpg" width="25%" height="120%"> | <img src = "https://user-images.githubusercontent.com/84562738/154439851-a768ba7e-2469-48dc-ae6a-54b6f28f9b2d.jpg" width="30%" height="50%">
-
- 
- Solarized dark            |  Solarized Ocean
-:-------------------------:|:-------------------------:
 [![github stats](https://github-readme-stats.vercel.app/api?username=LeezyLazyCrazy&theme=highcontrast)](https://github.com/LeezyLazyCrazy/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyLazyCrazy&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/LeezyLazyCrazy/LeezyLazyCrazy)
-
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeezyLazyCrazy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
