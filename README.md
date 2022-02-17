@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,25&height=300&section=footer&text=🏄🏻‍♀&fontSize=60&animation=fadeIn)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 Here are some ideas to get you started:
 
