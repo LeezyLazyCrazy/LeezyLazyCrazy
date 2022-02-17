@@ -1,6 +1,7 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/84562738/154438318-e1342d60-e430-409c-9f74-8d2cfc1ada67.gif)
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,25&height=300&section=footer&text=🏄🏻‍♀&fontSize=60&animation=fadeIn) -->
+
+<img src = "https://user-images.githubusercontent.com/84562738/154439829-babeec7a-d37d-42a1-ba4d-08c2214589e7.jpg" width="25%" height="120%"> | <img src = "https://user-images.githubusercontent.com/84562738/154439851-a768ba7e-2469-48dc-ae6a-54b6f28f9b2d.jpg" width="30%" height="50%">
+
  
  Solarized dark            |  Solarized Ocean
 :-------------------------:|:-------------------------:
