@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=🏄🏻‍♀&fontSize=60&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=300&section=footer&text=🏄🏻‍♀&fontSize=60&animation=blinking)
 
 Here are some ideas to get you started:
 
