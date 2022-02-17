@@ -1,5 +1,6 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/84562738/154438318-e1342d60-e430-409c-9f74-8d2cfc1ada67.gif)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,25&height=300&section=footer&text=🏄🏻‍♀&fontSize=60&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,25&height=300&section=footer&text=🏄🏻‍♀&fontSize=60&animation=fadeIn) -->
  
  Solarized dark            |  Solarized Ocean
 :-------------------------:|:-------------------------:
