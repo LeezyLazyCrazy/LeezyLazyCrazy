@@ -13,7 +13,7 @@
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyLazyCrazy&langs_count=10&layout=compact&theme=highcontrast&height=30)](https://github.com/LeezyLazyCrazy/LeezyLazyCrazy) | [![github stats](https://github-readme-stats.vercel.app/api?username=LeezyLazyCrazy&theme=highcontrast&width=10)](https://github.com/LeezyLazyCrazy/github-readme-stats)
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyLazyCrazy&langs_count=10&layout=compact&theme=highcontrast&height=30)](https://github.com/LeezyLazyCrazy/LeezyLazyCrazy) | [![github stats](https://github-readme-stats.vercel.app/api?username=LeezyLazyCrazy&theme=highcontrast&width=10)](https://github.com/LeezyLazyCrazy/github-readme-stats) |
  
 
  <br/>
