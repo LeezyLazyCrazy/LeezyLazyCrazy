@@ -14,8 +14,7 @@
 
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyLazyCrazy&langs_count=10&layout=compact&theme=highcontrast&height=30)
-![github stats](https://github-readme-stats.vercel.app/api?username=LeezyLazyCrazy&theme=highcontrast&width=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyLazyCrazy&langs_count=10&layout=compact&theme=highcontrast&height=30) | ![github stats](https://github-readme-stats.vercel.app/api?username=LeezyLazyCrazy&theme=highcontrast&width=10)
 
  <br/>
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
