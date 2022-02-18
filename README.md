@@ -8,16 +8,16 @@
 <p align="center"><img src = "https://user-images.githubusercontent.com/84562738/154439851-a768ba7e-2469-48dc-ae6a-54b6f28f9b2d.jpg" width="25%" height="40%"></p> 
 
 <br/>
-   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyLazyCrazy&langs_count=10&layout=compact&theme=highcontrast&height=30)](https://github.com/LeezyLazyCrazy/LeezyLazyCrazy)  [![github stats](https://github-readme-stats.vercel.app/api?username=LeezyLazyCrazy&theme=highcontrast&width=10)](https://github.com/LeezyLazyCrazy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyLazyCrazy&langs_count=10&layout=compact&theme=highcontrast&height=30)](https://github.com/LeezyLazyCrazy/LeezyLazyCrazy) | [![github stats](https://github-readme-stats.vercel.app/api?username=LeezyLazyCrazy&theme=highcontrast&width=10)](https://github.com/LeezyLazyCrazy/github-readme-stats)
  
 
  <br/>
-   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
 <br/>
 
