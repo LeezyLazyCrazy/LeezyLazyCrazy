@@ -1,8 +1,9 @@
 <div align=center>
 
-<img src="https://github.com/LeezyLazyCrazy/LeezyLazyCrazy/issues/2#issue-1187635005" width="20%" height="10%">
-<img src="" width="20%" height="10%">
-  
+ <img src="https://user-images.githubusercontent.com/84562738/161001210-2e4c6ecf-d9ce-4cdd-a9ae-9c9a7b487061.JPG" width="20%" height="10%">
+ <img src="https://user-images.githubusercontent.com/84562738/161001211-344f3e29-ce66-4e18-af53-6f114bae240c.JPG" width="20%" height="10%">
+
+
 ### Hi there 👋, This is Leezy
 
 Jr.Front-end Developer.
