@@ -24,9 +24,7 @@ Jr.Front-end Developer.
  <img src="https://img.shields.io/badge/Sass-000000?style=flat&logo=Sass&logoColor=white"/>
  <img src="https://img.shields.io/badge/Vue.js-000000?style=flat&logo=Vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=TailwindCSS&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQLS-000000?style=flat&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/OpenAPI Initiative-000000?style=flat&logo=OpenAPI Initiative&logoColor=white"/>
  </br>
  </br>
