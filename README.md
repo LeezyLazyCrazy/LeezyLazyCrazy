@@ -11,7 +11,6 @@ Jr.Front-end Developer.
 -------------------🐯🔍-------------------
  </br>
  </br>
-<a href="https://www.instagram.com/leeg1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DA1F26?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://open.kakao.com/o/sBKP7N5d/" target="_blank"><img src="https://img.shields.io/badge/kakaoTalk-DA1F26?style=flat-square&logo=WeChat&logoColor=white"/></a>  
  </br>
  </br>
