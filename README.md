@@ -17,19 +17,19 @@ Jr.Front-end Developer.
 -----🛠 Skills 🛠-----
  </br>
  </br>
- <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vue.js-000000?style=flat&logo=Vue.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/Typescript-000000?style=flat&logo=Typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/OpenAPI Initiative-000000?style=flat&logo=OpenAPI Initiative&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-0094F5?style=flat&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-FF9E0F?style=flat&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vue.js-00A672?style=flat&logo=Vue.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-00CAFF?style=flat&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.js-FF00BF?style=flat&logo=Next.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Typescript-FDEE21?style=flat&logo=Typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/OpenAPI Initiative-6236FF?style=flat&logo=OpenAPI Initiative&logoColor=white"/>
   </br>
- <img src="https://img.shields.io/badge/Antdesign-000000?style=flat&logo=Antdesign&logoColor=white"/>
- <img src="https://img.shields.io/badge/Styledcomponents-000000?style=flat&logo=Styledcomponents&logoColor=white"/>
- <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=TailwindCSS&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=CSS3&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sass-000000?style=flat&logo=Sass&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Antdesign-FF0000?style=flat&logo=Antdesign&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Styledcomponents-3655FF?style=flat&logo=Styledcomponents&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TailwindCSS-CCFF00?style=flat&logo=TailwindCSS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-FF6600?style=flat&logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Sass-B366F6?style=flat&logo=Sass&logoColor=white"/>
 
  
  
