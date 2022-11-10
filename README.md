@@ -7,36 +7,10 @@
 ### Hi there 👋, This is Leezy
 
 Jr.Front-end Developer.
-
--------------------🐯🔍-------------------
  </br>
  </br>
-<a href="https://open.kakao.com/o/sBKP7N5d/" target="_blank"><img src="https://img.shields.io/badge/kakaoTalk-DA1F26?style=flat-square&logo=WeChat&logoColor=white"/></a>  
+<a href="https://open.kakao.com/o/sBKP7N5d/" target="_blank"><img src="https://img.shields.io/badge/kakaoTalk-DA1F26?style=flat-square&logo=WeChat&logoColor=white"/></a> 
  </br>
- </br>
------🛠 Skills 🛠-----
- </br>
- </br>
- <img src="https://img.shields.io/badge/HTML5-0094F5?style=flat&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-FF9E0F?style=flat&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vue.js-00A672?style=flat&logo=Vue.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-00CAFF?style=flat&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-FF00BF?style=flat&logo=Next.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/Typescript-FDEE21?style=flat&logo=Typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/OpenAPI Initiative-6236FF?style=flat&logo=OpenAPI Initiative&logoColor=white"/>
-  </br>
- <img src="https://img.shields.io/badge/Antdesign-FF0000?style=flat&logo=Antdesign&logoColor=white"/>
- <img src="https://img.shields.io/badge/Styledcomponents-3655FF?style=flat&logo=Styledcomponents&logoColor=white"/>
- <img src="https://img.shields.io/badge/TailwindCSS-CCFF00?style=flat&logo=TailwindCSS&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-FF6600?style=flat&logo=CSS3&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sass-B366F6?style=flat&logo=Sass&logoColor=white"/>
-
- 
- 
- </br>
- </br>
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeezyLazyCrazy%2Fhit-counter&count_bg=%23000000&title_bg=%23FF2B08&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   </div>
