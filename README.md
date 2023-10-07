@@ -1,16 +1,7 @@
 <div align=center>
-
- <img src="https://user-images.githubusercontent.com/84562738/161001210-2e4c6ecf-d9ce-4cdd-a9ae-9c9a7b487061.JPG" width="20%" height="10%">
- <img src="https://user-images.githubusercontent.com/84562738/161001211-344f3e29-ce66-4e18-af53-6f114bae240c.JPG" width="20%" height="10%">
-
-
 ### Hi there 👋, This is Leezy
-
-Jr.Front-end Developer.
  </br>
  </br>
-<a href="https://open.kakao.com/o/sBKP7N5d/" target="_blank"><img src="https://img.shields.io/badge/kakaoTalk-DA1F26?style=flat-square&logo=WeChat&logoColor=white"/></a> 
  </br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeezyLazyCrazy%2Fhit-counter&count_bg=%23000000&title_bg=%23FF2B08&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  </div>
+</div>
